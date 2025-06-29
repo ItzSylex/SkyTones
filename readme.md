@@ -6,18 +6,6 @@ SkyTones is a collection of recolor resource packs designed to enhance your Hypi
 
 ---
 
-## Supported Mods & Compatibility
-
-Works great with popular mods and clients used in Hypixel Skyblock, such as:
-
--   Firmament
--   Skyblocker
--   Cookies Mod
--   REI (Roughly Enough Items)
--   And more mods to come!
-
----
-
 ## Installation
 
 1. Download your favorite SkyTones palette pack [clicking on this link](https://github.com/ItzSylex/SkyTones/releases/tag/v0.7).
@@ -29,6 +17,18 @@ Works great with popular mods and clients used in Hypixel Skyblock, such as:
 **Requirements:**
 
 -   Minecraft 1.21.0+ (Fabric recommended for mod compatibility)
+
+---
+
+## Supported Mods & Compatibility
+
+Works great with popular mods and clients used in Hypixel Skyblock, such as:
+
+-   Firmament
+-   Skyblocker
+-   Cookies Mod
+-   REI (Roughly Enough Items)
+-   And more mods to come!
 
 ---
 
