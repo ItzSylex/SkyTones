@@ -32,79 +32,28 @@ Works great with popular mods and clients used in Hypixel Skyblock, such as:
 
 ---
 
-<details>
-  <summary>Arcane Plum</summary>
+## Color Themes
 
-![Arcane Plum Preview](images/Arcane%20Plum/preview.png)
-
-</details>
-
-<details>
-  <summary>Classic FurfSky</summary>
-
-![Classic FurfSky Preview](images/Classic%20FurfSky/preview.png)
-
-</details>
-
-<details>
-  <summary>Crimson Blaze</summary>
-
-![Crimson Blaze Preview](images/Crimson%20Blaze/preview.png)
-
-</details>
-
-<details>
-  <summary>Verdant Ash</summary>
-
-![Verdant Ash Preview](images/Verdant%20Ash/preview.png)
-
-</details>
-
-<details>
-  <summary>Silver Shadow</summary>
-
-![Silver Shadow Preview](images/Silver%20Shadow/preview.png)
-
-</details>
-
-<details>
-  <summary>Violet Bloom</summary>
-
-![Violet Bloom Preview](images/Violet%20Bloom/preview.png)
-
-</details>
-
-<details>
-  <summary>Pale Coral</summary>
-
-![Pale Coral Preview](images/Pale%20Coral/preview.png)
-
-</details>
-
-<details>
-  <summary>Lilac Mist</summary>
-
-![Lilac Mist Preview](images/Lilac%20Mist/preview.png)
-
-</details>
-
-<details>
-  <summary>Icy Veil</summary>
-
-![Icy Veil Preview](images/Icy%20Veil/preview.png)
-
-</details>
-
-<details>
-  <summary>Coral Dust</summary>
-
-![Coral Dust Preview](images/Coral%20Dust/preview.png)
-
-</details>
+| Theme           | Preview                                                  |
+| --------------- | -------------------------------------------------------- |
+| Arcane Plum     | ![Arcane Plum](images/Arcane%20Plum/preview.png)         |
+| Classic FurfSky | ![Classic FurfSky](images/Classic%20FurfSky/preview.png) |
+| Crimson Blaze   | ![Crimson Blaze](images/Crimson%20Blaze/preview.png)     |
+| Verdant Ash     | ![Verdant Ash](images/Verdant%20Ash/preview.png)         |
+| Silver Shadow   | ![Silver Shadow](images/Silver%20Shadow/preview.png)     |
+| Violet Bloom    | ![Violet Bloom](images/Violet%20Bloom/preview.png)       |
+| Pale Coral      | ![Pale Coral](images/Pale%20Coral/preview.png)           |
+| Lilac Mist      | ![Lilac Mist](images/Lilac%20Mist/preview.png)           |
+| Icy Veil        | ![Icy Veil](images/Icy%20Veil/preview.png)               |
+| Coral Dust      | ![Coral Dust](images/Coral%20Dust/preview.png)           |
 
 ## Credits
 
 FurFsky for the iconic fan-favorite color theme.
+
+## Disclaimer
+
+I am not a designer nor artist. If you find any issues please let me know by opening an issue [on this link](https://github.com/ItzSylex/SkyTones/issues)
 
 ---
 
