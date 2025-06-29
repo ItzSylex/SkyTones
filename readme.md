@@ -9,7 +9,7 @@ SkyTones is a collection of recolor resource packs designed to enhance your Hypi
 ## Installation
 
 1. Download your favorite SkyTones palette pack [clicking on this link](https://github.com/ItzSylex/SkyTones/releases/tag/v0.7).
-2. Download FurfSky 1.21.5 **Overlay**
+2. Download [FurfSky 1.21.5 **Overlay**](https://modrinth.com/resourcepack/furfsky-reborn/versions)
 3. Move the downloaded palette zip file into your Minecraft `resourcepacks` directory.
 4. Open Minecraft and enable the resource pack from the Resource Packs menu.
 5. Make sure FurfSky **Overlay** is **BELOW THIS PACK**
