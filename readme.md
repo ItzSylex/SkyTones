@@ -2,7 +2,7 @@
 
 SkyTones is a collection of recolor resource packs designed to enhance your Hypixel Skyblock experience with multiple beautiful palettes — including the classic FurfSky blue color.
 
-![ThemePreview](images/preview.png)
+<img src="images/preview.png" alt="Theme Preview" style="width: 100%; height: auto;" />
 
 ---
 
